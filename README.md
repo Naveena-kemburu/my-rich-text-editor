@@ -23,7 +23,7 @@ A production-ready, feature-rich Rich Text Editor component built with React, fe
 
 ## Video Demo
 
-Watch the full demonstration: 
+Watch the full demonstration: https://drive.google.com/file/d/13LXfYnARoYggB6FB5MHchK0RAsGVhrsm/view?usp=sharing
 
 The video showcases:
 - Text editing and formatting
