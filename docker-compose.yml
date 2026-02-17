@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  rich-text-editor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    container_name: rich-text-editor-app
+    restart: unless-stopped
