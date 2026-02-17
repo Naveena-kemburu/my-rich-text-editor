@@ -17,20 +17,10 @@ A production-ready, feature-rich Rich Text Editor component built with React, fe
 ## Screenshots
 
 ### Desktop View
-![Desktop Editor](screenshots/desktop.png)
-*Full-featured editor on desktop with toolbar and presence indicators*
-
-### Tablet View
-![Tablet Editor](screenshots/tablet.png)
-*Responsive layout adapting to tablet screens*
-
-### Mobile View
-![Mobile Editor](screenshots/mobile.png)
-*Optimized mobile experience with touch-friendly controls*
 
 ## Video Demo
 
-Watch the full demonstration: [Rich Text Editor Demo](https://youtu.be/your-video-link)
+Watch the full demonstration: 
 
 The video showcases:
 - Text editing and formatting
@@ -274,26 +264,4 @@ my-rich-text-editor/
 - Autosave functionality
 - Custom keyboard shortcuts
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Built with ❤️ as a demonstration of advanced React patterns and modern frontend development practices.
-
-## Acknowledgments
-
-- React team for excellent documentation
-- Testing Library for intuitive testing utilities
-- Vite for blazing-fast development experience
