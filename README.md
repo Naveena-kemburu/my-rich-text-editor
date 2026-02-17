@@ -17,6 +17,10 @@ A production-ready, feature-rich Rich Text Editor component built with React, fe
 ## Screenshots
 
 ### Desktop View
+<img width="800" height="360" alt="TEXTEDITOR_GPP" src="https://github.com/user-attachments/assets/3ec85aba-fa07-4ccb-94a4-4dd90b00d8f0" />
+<img width="800" height="360" alt="TEXTEDITOR2_GPP" src="https://github.com/user-attachments/assets/1b18f256-638f-46b6-8a3f-4fe42590e5b3" />
+
+
 
 ## Video Demo
 
