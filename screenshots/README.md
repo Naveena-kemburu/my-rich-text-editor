@@ -1,23 +1,6 @@
 # Screenshots
 
-This directory contains screenshots of the Rich Text Editor at different breakpoints.
+<img width="800" height="360" alt="TEXTEDITOR_GPP" src="https://github.com/user-attachments/assets/f0a744c5-6b7b-43d4-93ed-ef4e7dccdd7f" />
 
-## Required Screenshots
+<img width="800" height="360" alt="TEXTEDITOR2_GPP" src="https://github.com/user-attachments/assets/877798f8-83b5-4b37-b5dd-d9b40389e6db" />
 
-1. **desktop.png** - Desktop view (1920px width)
-2. **tablet.png** - Tablet view (768px width)
-3. **mobile.png** - Mobile view (375px width)
-
-## How to Capture Screenshots
-
-1. Run the application: `npm run dev`
-2. Open browser DevTools (F12)
-3. Toggle device toolbar (Ctrl+Shift+M)
-4. Select device or set custom dimensions
-5. Capture screenshots at each breakpoint
-
-## Recommended Tools
-
-- Browser DevTools (built-in)
-- Responsively App (https://responsively.app/)
-- BrowserStack (for real device testing)
